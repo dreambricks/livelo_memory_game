@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea5fae6de221be6459dced41f0addc79
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Livelo Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 192f298177406a64daec8eb59b3c9ab6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
